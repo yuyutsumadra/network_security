@@ -1,3 +1,5 @@
 python-dotenv
 pandas
 numpy
+
+# -e.   ## using this the setup.py file gets triggered use it at the last during final completion
